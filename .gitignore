@@ -1,6 +1,9 @@
 ## Clear macOS trash
 .DS_Store
 
+.idea
+*.iml
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
